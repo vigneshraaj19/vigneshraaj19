@@ -5,7 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vigneshraaj19" alt="vigneshraaj19" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,ReactJS,NodeJS,Express,MongoDB**
+  
+- 🌱   I’m currently Working in Pearlcon Technology as a MERN stack developer
+     
+- 🌱 Learning **HTML,CSS,ReactJS,NodeJS,Express,MongoDB**
 
 - 👨‍💻 All of my projects are available at [http://vigneshraaj.in/](http://vigneshraaj.in/)
 
@@ -13,7 +16,7 @@
 
 - 📫 How to reach me **vigneshraaj19@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1mo8EwKyBvk4C0pW5ILJKZl2Ek2MOR_Ol/view
+- 📄 Know about my experiences  https://drive.google.com/file/d/11Pss7BqDObhrA9SpFy3GlI41BI808Gad/view?usp=sharing
 
 - ⚡ Fun fact **Listening Music to get my Energy**
 
